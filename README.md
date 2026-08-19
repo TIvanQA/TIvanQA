@@ -1,12 +1,13 @@
-# Привет, меня зовут Татьяна!
+# Татьяна | QA Engineer
 
 ### Обо мне
-4 года я работаю в сфере медицинских технологий в качестве специалиста по внедрению и UAT тестированию со стороны заказчика. Мои задачи: тестировать новые релизы медицинских систем, работать с базами данных (PostgreSQL), заводить баг-репорты.
-Так же я веду на фрилансе e-commerce проект, где набила руку на классических QA инструментах: Postman, DevTools, работала с API и писала тестовую документацию.
+Работаю в сфере медицинских технологий в качестве специалиста по внедрению и UAT тестированию со стороны заказчика. В мои задачи входит тестирование новых релизов медицинских систем, работа с базами данных (PostgreSQL), заведение баг-репортов.
+Так же я провожу на фрилансе ручное тестирование в e-commerce проекте, где использую классические QA-инструменты: Postman, DevTools,оформление тестовой документации.
 
 ---
 
-###  Как связаться со мной:    [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tvivan.qa@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-proton.me-red?style=flat&logo=Gmail&logoColor=white)](mailto:tvivan.qa@proton.me)
+###  Контакты:   
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tvivan.qa@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-proton.me-red?style=flat&logo=proton.mel&logoColor=white)](mailto:tvivan.qa@proton.me)
 
 ### 🤝 Социальные сети:
 
